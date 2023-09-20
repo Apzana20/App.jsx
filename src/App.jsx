@@ -2,7 +2,7 @@
 function App() {
   return (
     <div >
-    hellooooo openshop11 dashboard
+    Bye bye
 
     </div>
   );
